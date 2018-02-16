@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> Text Extractor</string>
+    <string name="title_activity_landing_page">LandingPage</string>
+
+    <string name="title_activity_launch_screen">LaunchScreen</string>
+    <string name="permission_denied">Permission denied!!!</string>
+    <string name="allow_permission">Allow permission</string>
+    <string name="title_activity_gallery__fetch">Gallery_Fetch</string>
+    <string name="data_retrieved">Retrieved data:</string>
+    <string name="selected_image">Selected Image:</string>
+    <string name="document_name">New Doc</string>
+    <string name="title">Document Name:</string>
+
+    <string name="fetchfail">Failed to fetch the Image</string>
+    <string name="saving"> Saved </string>
+    <string name="no_data">No OCR text</string>
+    <string name="failedconnection">Connection Failed </string>
+    <string name="title_activity_camera_fetch">CameraFetch</string>
+    <string name="title_activity_camera__fetch">Camera_Fetch</string>
+    <string name="title_activity_edit">Edit</string>
+</resources>
